@@ -1,0 +1,17 @@
+{
+  "name": "apium",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.4.4",
+    "@wdio/appium-service": "^9.4.1",
+    "@wdio/cli": "^9.4.1",
+    "@wdio/local-runner": "^9.4.1",
+    "@wdio/mocha-framework": "^9.2.8",
+    "appium": "^2.13.1",
+    "appium-uiautomator2-driver": "^3.9.1",
+    "webdriverio": "^9.4.1"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.32.0"
+  }
+}
