@@ -7,7 +7,7 @@
   "appium:noReset": true
 }
 
-adb devices
+adb devices - чтобы получить - deviceName
 
 appium --allow-cors
 
